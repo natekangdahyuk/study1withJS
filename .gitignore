@@ -1,0 +1,6 @@
+*.log
+@temp/
+.vs/
+Library/
+ProjectSettings/
+UnityPackageManager/
