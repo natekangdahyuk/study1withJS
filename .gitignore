@@ -4,3 +4,4 @@
 Library/
 ProjectSettings/
 UnityPackageManager/
+Assets/*.meta
