@@ -5,3 +5,5 @@ Library/
 ProjectSettings/
 UnityPackageManager/
 Assets/*.meta
+Temp/
+*.meta
